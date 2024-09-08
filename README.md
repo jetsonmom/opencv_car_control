@@ -1,4 +1,17 @@
 # opencv_car_control
+#### 9월 8일
+<b> 1. opencv_car시작하기
+``` bash
+mkdir opencv_car
+cd opencv_car
+sudo apt install python3.10-venv  # python3-venv 패키지 설치: 
+cd ~/opencv_car  # 올바른 디렉터리에 있는지 확인
+python3 -m venv opencv_car  # 환경 이름을 올바르게 입력하세요 프로젝트 디렉터리로 돌아가 가상 환경을 다시 생성
+source opencv_car/bin/activate  # 가상 환경 활성화:
+pip install opencv-python #가상 환경이 활성화된 상태에서 OpenCV를 설치
+
+```
+
 <b> chatgpt 자료
 이제 USB 카메라를 사용하여 OpenCV로 차선을 인식하고 자동차를 움직이는 코드를 준비하겠습니다. 여기서는 기존에 제공한 자동차 제어 코드와 함께 차선 인식 로직을 통합하여 자동차가 차선을 따라 운전할 수 있도록 설정합니다.
 
