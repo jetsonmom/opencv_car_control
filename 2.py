@@ -1,3 +1,6 @@
+
+차선이 검출이 안되었을 때 서보모터가 마구 움직이는 걸 움직이지 않게 수정한 코드 파라미터 수정을 더 해봐야할 듯
+
 import cv2
 import numpy as np
 import time
