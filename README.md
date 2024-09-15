@@ -1,6 +1,8 @@
 # opencv_car_control
 <b>  hangul install
-sudo apt install fcitx5 fcitx5-hangul
+``` bash
+ sudo apt install fcitx5 fcitx5-hangul
+```
 <b> pip install
 ``` bash
 sudo apt-get upgrade
