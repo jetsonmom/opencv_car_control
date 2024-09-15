@@ -1,4 +1,4 @@
-# opencv_car_control
+# opencv_car_control  - orin
 <b>   09. 15
 <b>  hangul install  https://ahnbk.dev/?p=368
 ``` bash
