@@ -1,4 +1,13 @@
 # opencv_car_control
+``` bash
+pip install smbus
+pip install adafruit-circuitpython-servokit
+pip install Adafruit_PCA9685
+pip install Adafruit_MotorHAT
+pip install Jetson.GPIO
+sudo usermod -aG gpio orin
+```
+
 #### 9월 8일
 <b> 1. opencv_car시작하기
 ``` bash
