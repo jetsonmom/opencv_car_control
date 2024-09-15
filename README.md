@@ -1,4 +1,5 @@
 # opencv_car_control
+<b> pip install
 ``` bash
 pip install smbus
 pip install adafruit-circuitpython-servokit
