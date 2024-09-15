@@ -1,3 +1,5 @@
+
+차선 검출 실패한 코드 서보모터가 마구 움직인다.
 import cv2
 import numpy as np
 import time
