@@ -1,5 +1,6 @@
 # opencv_car_control
-<b>  hangul install
+<b>   09. 15
+<b>  hangul install  https://ahnbk.dev/?p=368
 ``` bash
  sudo apt install fcitx5 fcitx5-hangul
 ```
