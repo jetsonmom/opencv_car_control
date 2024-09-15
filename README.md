@@ -1,6 +1,11 @@
 # opencv_car_control
 <b> pip install
 ``` bash
+sudo apt-get upgrade
+sudo apt-get update
+```
+
+``` bash
 pip install smbus
 pip install adafruit-circuitpython-servokit
 pip install Adafruit_PCA9685
